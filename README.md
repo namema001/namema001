@@ -77,8 +77,8 @@ A production-shaped fraud decisioning service that scores card authorizations as
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<a href="[[DEMO-URL](https://fraudpulse-u2va.onrender.com/)](https://fraudpulse-u2va.onrender.com/)"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=render&logoColor=white" alt="Live demo"/></a>
-<a href="[https://github.com/FraudPulseLabs/FraudPulse](https://github.com/FraudPulseLabs/FraudPulse)"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+<a href="https://fraudpulse-u2va.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=render&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/FraudPulseLabs/FraudPulse"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 ---
 
